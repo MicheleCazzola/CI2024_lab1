@@ -3,7 +3,7 @@
 ## Repository overview
 The official notebook is [set-cover.ipynb](set-cover.ipynb), with a solution based on a single mutation tweak. A speed up has been performed to let instances run in about one minute each, at maximum.
 
-The notebook [strategies.ipynb](strategies.ipynb) contains some scripts with other strategies tried. They are in general much slower than the official solution (by a factor of 50), but they provide slightly better results in some cases, depending on the instance and, sometimes, on the problem data.
+The notebook [strategies.ipynb](strategies.ipynb) contains some scripts with other strategies tried. They are in general much slower than the official solution, but they provide slightly better results in some cases, depending on the instance and, sometimes, on the problem data.
 
 ## Official solution
 The official solution has the following characteristics:
